@@ -1,7 +1,7 @@
-## Dehazing by Stack of GANs
+## Dehazing by GANs
 
 
-<img src="readme/learning.png" />
+<img src="readme/ex1.png" width="350" /> <img src="readme/ex1_dehazed.png" width="350" />
 
 
 #### ! under development !
